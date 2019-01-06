@@ -26,7 +26,7 @@ Cambios y estrategia necesaria para avanzar la Ciencia, Tecnología e Innovació
 -	Hacer estudio para obtener datos que apoyen la elección de sectores donde Colombia puede liderar en ciencia y tecnología
 -	Iniciar red de científicos colombianos en el exterior para permitir que esos científicos aporten tiempo, conocimiento y contactos para ayudar a avanzar iniciativas de ciencia y tecnología en Colombia. A cambio de su participación los científicos extranjeros podrán ser parte de proyectos o recibir reconocimiento pro su contribución.
 -	Hacer convocatorias para proyectos pequeños “high risk high reward”, en áreas claves para el desarrollo de Colombia, seguidos de una financiación mayor para proyectos exitosos (modelo [Fundación Gates](https://gcgh.grandchallenges.org/))
--	Usar expertos internacionales para la evaluación de proyectos (modelo [Genoma Canada]((https://www.genomecanada.ca/en/why-genomics/genome-canadas-role))
+-	Usar expertos internacionales para la evaluación de proyectos (modelo [Genoma Canada](https://www.genomecanada.ca/en/why-genomics/genome-canadas-role))
 -	Fortalecer el seguimiento de proyectos financiados por el Ministerio CTI (modelo [Genoma Canada](https://www.genomecanada.ca/en/about-us/accountability/evaluation))
 -	Iniciar programa para apoyar pequeñas empresas en ciencia y tecnología ([modelo SME](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/sme-instrument), Comisión Europea Programa H2020)
 -	Incentivar la participación ciudadana en proyectos científicos a través de grupos de interés, grupos de pacientes, grupos de usuarios de la ciencia y organizaciones sin ánimo de lucro.
