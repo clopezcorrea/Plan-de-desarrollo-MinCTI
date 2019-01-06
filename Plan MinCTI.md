@@ -12,7 +12,7 @@ Según los indicadores de ciencia y tecnología en el 2017 en Colombia (publicad
 -	La cantidad de graduados en educación superior se ha más que duplicado en los diez últimos años
 -	Aumento notable de publicaciones, en revistas indexadas, de autores vinculados a instituciones colombianas
 
-Cambios y estrategia necesaria para avanzar la Ciencia, Tecnología e Innovación en Colombia
+# Cambios y estrategia necesaria para avanzar la Ciencia, Tecnología e Innovación en Colombia
 -	Solidificar la inversión en CTI en Colombia, canalizar fondos de diversos orígenes para asegurar programas coordinados y bien alineados. No se trata de invertir más sino de invertir más estratégicamente.
 -	Posicionar a Colombia como líder en ciencia e investigación de América Latina en áreas específicas (biodiversidad, bioinformática, etc), usar modelos como el de Israel, Corea y Brasil quienes han logrado liderar políticas de investigación en sus regiones.
 -	Desarrollar programas que no solo apoyen proyectos científicos sino la demostración del impacto económico y social de esos proyectos (Modelo [Fraunhofer](https://www.competeprosper.ca/blog/fraunhofer-institutes-offer-model-for-boosting-commercialization-in-ontario) en Alemania)
