@@ -1,5 +1,6 @@
 # Plan de desarrollo MinCTI
 Para avanzar la Ciencia, Tecnología e Innovación en Colombia
+
 Dra. Catalina Lopez-Correa – Enero 2019
 
 ## Situación actual de la ciencia, tecnología e innovación en Colombia
