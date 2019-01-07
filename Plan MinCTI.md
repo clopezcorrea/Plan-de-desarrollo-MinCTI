@@ -4,7 +4,7 @@ Para avanzar la Ciencia, Tecnología e Innovación en Colombia
 Dra. Catalina Lopez-Correa – Enero 2019
 
 ## Situación actual de la ciencia, tecnología e innovación en Colombia
-Según los indicadores de ciencia y tecnología en el 2017 en Colombia (publicados por el observatorio de Ciencia y Tecnología OCyT) el panorama presenta algunos avances, pero también muchas áreas que se deben mejorar para asegurar el progreso de la CyT en Colombia:
+Según los indicadores de ciencia y tecnología en el 2017 en Colombia (publicados por el observatorio de Ciencia y Tecnología [OCyT](https://ocyt.shinyapps.io/odocyt_v1/)) el panorama presenta algunos avances, pero también muchas áreas que se deben mejorar para asegurar el progreso de la CyT en Colombia:
 -	La inversión, tanto en I+D como en ACTI, han tendido a aumentar como proporción del Producto Interno Bruto (PIB) del país desde comienzos del siglo
 -	El aumento fue especialmente marcado en el caso de la ACTI entre 2012 y2014, gracias a los nuevos recursos que proporcionó el sistema de regalías
 -	Esta inversión se ha reducido recientemente, en 2017 fue 0,244% del PIB (I+D) y 0,674% del PIB (ACTI).
